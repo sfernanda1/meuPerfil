@@ -21,6 +21,7 @@ const config: Config = {
       textColor: {
         'primary': "#FCFFE7",
         'secondary': "#2B3467",
+        'terciary': "#EB455F"
       },
     },
   },
